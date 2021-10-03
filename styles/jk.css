@@ -1,0 +1,12 @@
+h1{
+
+    border: 2px dotted rgba(255, 100, 200) ;
+    margin: 10 40 50 100;
+    padding:23 70 50 20;
+    padding: 10 15 10 15;
+    padding: 10px 20px;
+    border-style: dashed;
+    color: #ff64c8;
+    color: hsla(20, 38, 50, 0.2);
+    background-image: url('images/bg.jpg');
+}

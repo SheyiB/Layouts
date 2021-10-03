@@ -1,0 +1,112 @@
+.col-md-3{
+    background-color: darkblue;
+    height: 300px;
+}
+
+.col-md-2{
+    background-color: darkblue;
+    height: 300px;
+}
+
+.col-md-9{
+    background-color: darkgray;
+    height: 300px;
+}
+
+.col-md-4{
+    background-color:darkgreen;
+    height: 300px;
+}
+
+.col-md-6{
+    background-color: dodgerblue;
+    height: 1200px;
+}
+
+.col-md-8{
+    background-color: darkkhaki;
+    height: 300px;
+}
+
+.col-md-12{
+    background-color: indianred;
+    height: 300px;
+}
+
+.col-lg-3{
+    background-color:lightslategray;
+    height: 300px;   
+}
+
+.col-sm-3{
+    background-color:limegreen;
+    height: 300px;   
+}
+
+.col-xs-3{
+    background-color:limegreen;
+    height: 300px;   
+}
+
+
+
+.white{
+    background-color: white;
+    height: 300px;
+}
+
+.ite{
+    background-color: firebrick;
+    height: 300px;
+}
+
+.black{
+    background-color: black;
+    height: 300px;
+}
+
+.noba{
+    background-color: limegreen;
+    height: 120px;
+}
+
+.noda{
+    background-color: orange;
+    height: 300px;
+}
+
+.red{
+    background-color: rgb(230, 92, 92);
+    height: 120px;
+}
+
+.orange{
+    background-color: orange;
+    height: 300px;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 600px;
+}
+
+.green{
+    background-color: green;
+    height: 300px;
+}
+
+.blue{
+    background-color: blue;
+    height: 300px;
+}
+
+.indigo{
+    background-color: indigo;
+    height: 300px;
+}
+
+.violet{
+    background-color: violet;
+    height: 300px;
+}
+

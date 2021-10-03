@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#main{
+    width: 100%;
+    height: auto;
+}
+
+#menu{
+    width: 100%;
+    height: 50px;   
+}
+
+.menu{
+    width: 16%;
+    margin-left: 15px;
+    background-color: khaki;
+    color: lightcoral;
+    text-align: center;
+    padding: 10px;
+    float: left;
+}
+
+.menu:hover{
+    background-color: lightcoral;
+    color: khaki;
+    border-radius: 20px;
+}
+
+#header{
+    width: 100%;
+    height: 200px;
+    background-color: khaki;
+}
+
+#body{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background-color: lightcoral;
+    padding: 20px;
+}
+
+#circle{
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+    background-color: khaki;
+    margin-left: 25%;
+}
+
+#forms{
+    background-color: lightcoral;
+    width: auto;
+    height: auto;   
+}

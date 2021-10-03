@@ -1,0 +1,18 @@
+.ram{
+    width: 20%;
+    height: 10%;
+}
+
+
+
+
+@media only screen and (max-width: 700px){
+    .large{
+    width: 30%;}
+}
+
+@media only screen and (max-width: 500px){
+   .small{
+    width: 100%;
+}
+}

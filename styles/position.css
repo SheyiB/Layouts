@@ -1,0 +1,26 @@
+.one{
+    width: 1390px;
+    height: 300px;
+    background-color: deepskyblue;
+    
+}
+
+.two{
+    width: 800px;
+    height: 300px;
+    background-color: skyblue;
+    position: relative;
+    left:250px;
+    top:-100px;
+    border-radius: 20px;
+}
+
+.three{
+    width: 400px;
+    height: 400px;
+    background-color: skyblue;
+    position: absolute;
+    left:258px;
+    top:100px;
+    border-radius: 1000px;
+}

@@ -1,0 +1,25 @@
+div p{
+    text-decoration: overline;
+}
+
+/**div p, div >p{
+
+}
+
+h1,h2,h3{
+
+}
+
+ul.menu li a{ 
+
+}
+
+ul > li {
+
+}
+
+/* child selector */
+/**ul > li ol{
+
+}**/
+

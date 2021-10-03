@@ -1,0 +1,49 @@
+
+.row{
+    height: 922px;
+    background-color: white;
+    
+}
+
+.blue{
+    background-color: dodgerblue;
+    
+}
+.red{
+    background-color: firebrick;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.indigo{
+    background-color: indigo;
+}
+.violet{
+    background-color: violet;
+}
+
+.a{
+    background-color: teal;
+}
+
+.b{
+    background-color: darkblue;
+}
+
+.c{
+    background-color: darkorange;
+}
+
+.d{
+    background-color: darksalmon;
+}
+
+.e{
+    background-color: darkseagreen;
+}

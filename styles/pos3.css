@@ -1,0 +1,39 @@
+body{background:  linear-gradient(to right,red,orange,green,blue,indigo,violet); }
+.fir{
+    width: 400px;
+    height: 400px;
+    /*background: radial-gradient(blue,white,black,green);*/
+    position: absolute;
+    background: lightslategray;
+    top: 100px;
+    left: 300px;
+    border-radius: 200px;
+    
+}
+.sec{
+    width: 400px;
+    height: 450px;
+    /*background: linear-gradient(to left, skyblue,royalblue, steelblue,deepskyblue,darkblue);*/
+    background: lightskyblue;
+    border-radius: 200px;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+.thi{
+    width: 500px;
+    height: 600px;
+    /*background: radial-gradient(green,white);*/
+    border-radius: 300px;
+    background: royalblue;
+    position: absolute;
+    top: 250px;
+    left: 450px;
+    transition: background 3s ease-in;
+    transition: height 3s ease-in;
+}
+
+/*.thi:hover{
+    background-color: saddlebrown;
+    width: 300px;
+}*/

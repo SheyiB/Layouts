@@ -1,0 +1,12 @@
+h1{
+    font-size: 40px;
+    border:2px double #ff35ef;
+    width: 300px;
+
+}
+
+P{
+    text-transform: uppercase;
+    text-decoration: overline;
+    border:3px groove #ff5476
+}

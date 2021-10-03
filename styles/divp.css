@@ -1,0 +1,20 @@
+.first{
+    background-color: khaki;
+    display: inline-block;
+}
+.second{
+    background-color: lightblue;
+    display: inline-block;
+}
+.third{
+    background-color: lightsalmon;
+    display: inline-block;
+}
+.fourth{
+    background-color: limegreen;
+    display: inline-block;
+}
+.fifth{
+    background-color: midnightblue;
+    display: inline-block;
+}
